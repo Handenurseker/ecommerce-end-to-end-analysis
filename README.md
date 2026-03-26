@@ -42,9 +42,12 @@ Using SQL and Power BI, key performance indicators were analyzed, high-performin
 - Product and campaign strategies can be strengthened for high-performing categories such as **Home** and **Toys**.
 - Customer retention strategies can be developed for top revenue-generating customers.
 - Additional campaigns focused on customer acquisition can be considered to attract more new customers.
-
-<img width="1267" height="719" alt="04_data_model" src="https://github.com/user-attachments/assets/a2ca9d7a-d2b4-4fce-bb28-6fef243ff95f" />
-<img width="1312" height="736" alt="03_customer_analysis" src="https://github.com/user-attachments/assets/e18b96af-e3ee-4e32-8989-8971daeb0331" />
-<img width="1319" height="741" alt="02_sales_analysis" src="https://github.com/user-attachments/assets/3545d747-6b6d-49d9-b6e4-74cecad0bf80" />
+  
 <img width="1319" height="739" alt="01_overview" src="https://github.com/user-attachments/assets/5a52538b-8eb0-40ff-bb22-71ca21991456" />
+<img width="1319" height="741" alt="02_sales_analysis" src="https://github.com/user-attachments/assets/3545d747-6b6d-49d9-b6e4-74cecad0bf80" />
+<img width="1312" height="736" alt="03_customer_analysis" src="https://github.com/user-attachments/assets/e18b96af-e3ee-4e32-8989-8971daeb0331" />
+<img width="1267" height="719" alt="04_data_model" src="https://github.com/user-attachments/assets/a2ca9d7a-d2b4-4fce-bb28-6fef243ff95f" />
+
+
+
 
